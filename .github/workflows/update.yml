@@ -1,0 +1,33 @@
+name: update
+on:
+  pull_request:
+    branches: [ main ]
+jobs:
+  build:
+    name: update
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: install packages
+      run: sudo apt-get update && sudo apt-get install -y cmake g++ git gnuplot
+    - name: download generator
+      run: gh repo clone acodcha/ti4-echelon generator
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: configure generator
+      run: cd generator && mkdir -p build && cd build && cmake ..
+    - name: build generator
+      run: cd generator && cd build && make
+    - name: delete previous leaderboard
+      run: rm -rf leaderboard/*
+    - name: generate new leaderboard
+      run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard leaderboard
+    - name: cleanup generator
+      run: rm -rf generator
+    - name: commit leaderboard files
+      uses: EndBug/add-and-commit@main
+      with:
+        add: "--all"
+        message: "Update leaderboard."
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
