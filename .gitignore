@@ -1,0 +1,3 @@
+.vscode/*
+leaderboard/**/*.dat
+leaderboard/**/*.gnuplot
