@@ -1,17 +1,17 @@
-2021-12-27 free-for-all 10
+2021-12-27 free-for-all 10 8h30m
 1st Rob 10 Argent Flight
 2nd PA 9 Ghosts of Creuss
 3rd AlexC 9 Winnu
 4th Wendi 8 Barony of Letnev
 5th Andy 7 Empyrean
 
-2021-12-18 free-for-all 10
+2021-12-18 free-for-all 10 8h45m
 1st Ronan 10 Naalu Collective
 2nd AlexC 10 L1z1x Mindnet
 3rd Rob 9 Mahact Gene-Sorcerers
 4th Andy 9 Argent Flight
 
-2021-12-05 free-for-all 5
+2021-12-05 free-for-all 5 8h45m
 1st AlexC 5 Vuil'raith Cabal
 2nd Scott 5 Mentak Coalition
 3rd Jess 2 Sardakk N'orr
@@ -19,61 +19,61 @@
 5th Rachel 1 Naaz-Rokha Alliance
 6th Eftychi 0 Mahact Gene-Sorcerers
 
-2021-11-20 free-for-all 10
+2021-11-20 free-for-all 10 11h00m
 1st Rob 10 Titans of Ul
 2nd AlexC 9 Vuil'raith Cabal
 3rd Ronan 8 Barony of Letnev
 4th Wendi 8 Nekro Virus
 
-2021-10-16 free-for-all 10
+2021-10-16 free-for-all 10 10h15m
 1st Wendi 10 Barony of Letnev
 2nd Ronan 10 Arborec
 3rd AlexC 10 Naaz-Rokha Alliance
 4th Rob 11 Vuil'raith Cabal
 
-2021-09-25 free-for-all 10
+2021-09-25 free-for-all 10 8h45m
 1st AlexC 10 Winnu
 2nd Rob 7 Universities of Jol-Nar
 3rd Nick 7 Clan of Saar
 4th Ronan 4 Sardakk N'orr
 
-2021-09-05 free-for-all 10
+2021-09-05 free-for-all 10 10h15m
 1st AlexC 10 Clan of Saar
 2nd Wendi 10 Universities of Jol-Nar
 3rd Ronan 10 Argent Flight
 4th Rachel 9 Empyrean
 5th Nick 8 Naaz-Rokha Alliance
 
-2021-07-31 free-for-all 10
+2021-07-31 free-for-all 10 6h45m
 1st Nick 10 Argent Flight
 2nd AlexC 7 Xxcha Kingdom
 3rd Wendi 6 L1z1x Mindnet
 4th Ronan 6 Empyrean
 
-2021-07-10 free-for-all 10
+2021-07-10 free-for-all 10 7h15m
 1st PA 10 Clan of Saar
 2nd Nick 8 Vuil'raith Cabal
 3rd AlexC 7 Federation of Sol
 4th Wendi 7 Universities of Jol-Nar
 
-2021-07-03 free-for-all 10
+2021-07-03 free-for-all 10 8h30m
 1st AlexC 10 Federation of Sol
 2nd Scott 9 Nekro Virus
 3rd Rachel 5 Naaz-Rokha Alliance
 
-2021-06-26 free-for-all 10
+2021-06-26 free-for-all 10 9h00m
 1st Ronan 10 Naaz-Rokha Alliance
 2nd PA 9 Arborec
 3rd AlexC 8 Clan of Saar
 4th Wendi 7 Naalu Collective
 5th Nick 6 L1z1x Mindnet
 
-2021-06-12 free-for-all 10
+2021-06-12 free-for-all 10 4h00m
 1st Wendi 10 Clan of Saar
 2nd PA 9 Vuil'raith Cabal
 3rd AlexC 0 Winnu
 
-2021-05-29 free-for-all 10
+2021-05-29 free-for-all 10 8h00m
 1st Ronan 11 Custom
 2nd Wendi 10 Custom
 3rd Andy 9 Custom
@@ -81,13 +81,13 @@
 5th AlexC 8 Custom
 6th Nick 7 Custom
 
-2021-05-15 free-for-all 10
+2021-05-15 free-for-all 10 4h00m
 1st PA 10 Argent Flight
 2nd AlexC 7 L1z1x Mindnet
 3rd Nick 4 Vuil'raith Cabal
 4th Wendi 4 Arborec
 
-2021-05-01 free-for-all 10
+2021-05-01 free-for-all 10 12h15m
 1st AlexP 10 Naalu Collective
 2nd AlexC 9 Titans of Ul
 3rd PA 8 Embers of Muaat
@@ -95,13 +95,13 @@
 5th Ronan 8 Xxcha Kingdom
 6th Wendi 6 Nomad
 
-2021-04-17 free-for-all 10
+2021-04-17 free-for-all 10 9h30m
 1st Wendi 10 Argent Flight
 2nd Nick 8 Xxcha Kingdom
 3rd AlexC 8 Federation of Sol
 4th Ronan 8 Vuil'raith Cabal
 
-2021-04-03 free-for-all 10
+2021-04-03 free-for-all 10 10h15m
 1st PA 10 Custom
 2nd AlexC 7 Custom
 3rd AlexP 6 Custom
@@ -110,7 +110,7 @@
 6th Ronan 4 Custom
 7th Andy 3 Custom
 
-2021-03-06 free-for-all 10
+2021-03-06 free-for-all 10 8h45m
 1st Andy 10 Universities of Jol-Nar
 2nd AlexC 7 Argent Flight
 3rd Nick 5 Nomad
@@ -119,7 +119,7 @@
 6th PA 4 Yin Brotherhood
 7th AlexP 4 Emirates of Hacan
 
-2021-02-20 free-for-all 10
+2021-02-20 free-for-all 10 9h30m
 1st PA 10 Sardakk N'orr
 2nd Wendi 8 Mahact Gene-Sorcerers
 3rd Andy 8 Universities of Jol-Nar
@@ -127,7 +127,7 @@
 5th Nick 7 Titans of Ul
 6th AlexC 7 Embers of Muaat
 
-2021-02-06 free-for-all 10
+2021-02-06 free-for-all 10 12h00m
 1st Wendi 10 Emirates of Hacan
 2nd PA 10 Mahact Gene-Sorcerers
 3rd AlexC 8 Federation of Sol
