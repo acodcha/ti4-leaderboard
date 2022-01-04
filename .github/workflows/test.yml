@@ -1,0 +1,24 @@
+name: test
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: install packages
+      run: sudo apt-get update && sudo apt-get install -y cmake g++ git gnuplot
+    - name: download generator
+      run: gh repo clone acodcha/ti4-echelon generator
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: configure generator
+      run: cd generator && mkdir -p build && cd build && cmake ..
+    - name: build generator
+      run: cd generator && cd build && make
+    - name: generate test leaderboard
+      run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard test
+    - name: cleanup generator
+      run: rm -rf generator
