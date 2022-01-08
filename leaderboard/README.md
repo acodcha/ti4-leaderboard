@@ -12,7 +12,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-01-08 11:36 UTC.
+Last updated 2022-01-08 11:38 UTC.
 
 # Players
 
