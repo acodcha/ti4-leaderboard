@@ -12,7 +12,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-01-05 06:09 UTC.
+Last updated 2022-01-08 09:50 UTC.
 
 # Players
 
@@ -27,31 +27,31 @@ Last updated 2022-01-05 06:09 UTC.
 
 | **Player** | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| AlexC | 25 | 1071 | 1013 | 7.96 | 16% (4) | 36% (9) | 32% (8) |
-| AlexP | 7 | 999 | 980 | 6.71 | 14% (1) | 14% (1) | 14% (1) |
-| Andy | 9 | 956 | 1006 | 8.11 | 11% (1) | 11% (1) | 33% (3) |
-| Eftychi | 1 | 969 | 969 | 0.00 | 0% (0) | 0% (0) | 0% (0) |
-| Jay | 1 | 994 | 994 | 4.00 | 0% (0) | 0% (0) | 0% (0) |
-| Jess | 1 | 1006 | 1006 | 4.00 | 0% (0) | 0% (0) | 100% (1) |
-| Nick | 18 | 914 | 915 | 6.22 | 6% (1) | 17% (3) | 17% (3) |
-| PA | 16 | 1140 | 1114 | 9.25 | 56% (9) | 25% (4) | 6% (1) |
-| Rachel | 3 | 939 | 953 | 5.33 | 0% (0) | 0% (0) | 33% (1) |
-| Rob | 5 | 1034 | 1005 | 9.20 | 40% (2) | 20% (1) | 20% (1) |
-| Ronan | 13 | 985 | 962 | 7.62 | 23% (3) | 8% (1) | 15% (2) |
-| Scott | 2 | 1019 | 1009 | 9.50 | 0% (0) | 100% (2) | 0% (0) |
-| Wendi | 21 | 976 | 999 | 7.48 | 19% (4) | 14% (3) | 19% (4) |
+| AlexC | 25 | 1180 | 1084 | 7.96 | 16% (4) | 36% (9) | 32% (8) |
+| AlexP | 7 | 1153 | 981 | 6.71 | 14% (1) | 14% (1) | 14% (1) |
+| Andy | 9 | 894 | 1035 | 8.11 | 11% (1) | 11% (1) | 33% (3) |
+| Eftychi | 1 | 868 | 868 | 0.00 | 0% (0) | 0% (0) | 0% (0) |
+| Jay | 1 | 991 | 991 | 4.00 | 0% (0) | 0% (0) | 0% (0) |
+| Jess | 1 | 1044 | 1044 | 4.00 | 0% (0) | 0% (0) | 100% (1) |
+| Nick | 18 | 924 | 885 | 6.22 | 6% (1) | 17% (3) | 17% (3) |
+| PA | 16 | 1237 | 1225 | 9.25 | 56% (9) | 25% (4) | 6% (1) |
+| Rachel | 3 | 886 | 915 | 5.33 | 0% (0) | 0% (0) | 33% (1) |
+| Rob | 5 | 1180 | 1063 | 9.20 | 40% (2) | 20% (1) | 20% (1) |
+| Ronan | 13 | 1114 | 994 | 7.62 | 23% (3) | 8% (1) | 15% (2) |
+| Scott | 2 | 1095 | 1050 | 9.50 | 0% (0) | 100% (2) | 0% (0) |
+| Wendi | 21 | 997 | 1037 | 7.48 | 19% (4) | 14% (3) | 19% (4) |
 
 [(Back to Players)](#players)
 
 ## Players: Ratings
 
-![Ratings Plot](players/ratings.png)
+![Players Ratings Plot](players/ratings.png)
 
 [(Back to Players)](#players)
 
 ## Players: Average Victory Points per Game
 
-![Points Plot](players/points.png)
+![Players Points Plot](players/points.png)
 
 Victory points are adjusted relative to a 10-point game.
 
@@ -59,7 +59,7 @@ Victory points are adjusted relative to a 10-point game.
 
 ## Players: Win Rates
 
-![Win Rates Plot](players/winrates.png)
+![Players Win Rates Plot](players/winrates.png)
 
 [(Back to Players)](#players)
 
@@ -74,25 +74,52 @@ Victory points are adjusted relative to a 10-point game.
 
 ## Factions: Summary
 
-Coming soon!
+| **Player** | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Arborec | 3 | 1062 | 1009 | 7.67 | 0% (0) | 67% (2) | 0% (0) |
+| Argent Flight | 10 | 1122 | 1109 | 8.30 | 40% (4) | 20% (2) | 10% (1) |
+| Barony of Letnev | 5 | 953 | 967 | 7.60 | 20% (1) | 0% (0) | 20% (1) |
+| Clan of Saar | 6 | 1213 | 1174 | 9.17 | 50% (3) | 17% (1) | 33% (2) |
+| Embers of Muaat | 2 | 945 | 899 | 7.50 | 0% (0) | 0% (0) | 50% (1) |
+| Emirates of Hacan | 3 | 930 | 1051 | 7.33 | 33% (1) | 33% (1) | 0% (0) |
+| Empyrean | 5 | 889 | 1019 | 7.20 | 20% (1) | 0% (0) | 0% (0) |
+| Federation of Sol | 7 | 1035 | 1028 | 8.14 | 14% (1) | 0% (0) | 86% (6) |
+| Ghosts of Creuss | 1 | 1071 | 1071 | 9.00 | 0% (0) | 100% (1) | 0% (0) |
+| L1z1x Mindnet | 5 | 1043 | 1064 | 7.80 | 20% (1) | 40% (2) | 20% (1) |
+| Mahact Gene-Sorcerers | 5 | 933 | 958 | 6.20 | 0% (0) | 40% (2) | 20% (1) |
+| Mentak Coalition | 2 | 1092 | 1033 | 8.00 | 0% (0) | 50% (1) | 50% (1) |
+| Naalu Collective | 3 | 1140 | 1108 | 9.00 | 67% (2) | 0% (0) | 0% (0) |
+| Naaz-Rokha Alliance | 8 | 932 | 1050 | 7.50 | 25% (2) | 12% (1) | 25% (2) |
+| Nekro Virus | 4 | 796 | 846 | 6.75 | 0% (0) | 25% (1) | 0% (0) |
+| Nomad | 3 | 867 | 937 | 5.67 | 0% (0) | 0% (0) | 33% (1) |
+| Sardakk N'orr | 3 | 1081 | 1082 | 6.00 | 33% (1) | 0% (0) | 33% (1) |
+| Titans of Ul | 5 | 1121 | 1075 | 9.20 | 40% (2) | 20% (1) | 20% (1) |
+| Universities of Jol-Nar | 7 | 1162 | 1027 | 7.14 | 14% (1) | 29% (2) | 14% (1) |
+| Vuil'raith Cabal | 11 | 1125 | 922 | 7.64 | 9% (1) | 27% (3) | 9% (1) |
+| Winnu | 4 | 1103 | 1085 | 7.25 | 50% (2) | 0% (0) | 50% (2) |
+| Xxcha Kingdom | 3 | 1005 | 991 | 7.67 | 0% (0) | 67% (2) | 0% (0) |
+| Yin Brotherhood | 2 | 923 | 916 | 6.00 | 0% (0) | 0% (0) | 0% (0) |
+| Yssaril Tribes | 2 | 1029 | 1009 | 7.50 | 0% (0) | 50% (1) | 0% (0) |
 
 [(Back to Factions)](#factions)
 
 ## Factions: Ratings
 
-Coming soon!
+![Factions Ratings Plot](factions/ratings.png)
 
 [(Back to Factions)](#factions)
 
 ## Factions: Average Victory Points per Game
 
-Coming soon!
+![Factions Points Plot](factions/points.png)
+
+Victory points are adjusted relative to a 10-point game.
 
 [(Back to Factions)](#factions)
 
 ## Factions: Win Rates
 
-Coming soon!
+![Factions Win Rates Plot](factions/winrates.png)
 
 [(Back to Factions)](#factions)
 
