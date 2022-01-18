@@ -12,7 +12,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-01-09 08:51 UTC.
+Last updated 2022-01-18 03:35 UTC.
 
 # Players
 
@@ -25,21 +25,23 @@ Last updated 2022-01-09 08:51 UTC.
 
 ## Players: Summary
 
-| **Player** | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| PA | 16 | 1237 | 1225 | 9.25 | 56% (9) | 25% (4) | 6% (1) |
-| Rob | 5 | 1180 | 1063 | 9.20 | 40% (2) | 20% (1) | 20% (1) |
-| AlexC | 25 | 1180 | 1084 | 7.96 | 16% (4) | 36% (9) | 32% (8) |
-| AlexP | 7 | 1153 | 981 | 6.71 | 14% (1) | 14% (1) | 14% (1) |
-| Ronan | 13 | 1114 | 994 | 7.62 | 23% (3) | 8% (1) | 15% (2) |
-| Scott | 2 | 1095 | 1050 | 9.50 | 0% (0) | 100% (2) | 0% (0) |
-| Jess | 1 | 1044 | 1044 | 4.00 | 0% (0) | 0% (0) | 100% (1) |
-| Wendi | 21 | 997 | 1037 | 7.48 | 19% (4) | 14% (3) | 19% (4) |
-| Jay | 1 | 991 | 991 | 4.00 | 0% (0) | 0% (0) | 0% (0) |
-| Nick | 18 | 924 | 885 | 6.22 | 6% (1) | 17% (3) | 17% (3) |
-| Andy | 9 | 894 | 1035 | 8.11 | 11% (1) | 11% (1) | 33% (3) |
-| Rachel | 3 | 886 | 915 | 5.33 | 0% (0) | 0% (0) | 33% (1) |
-| Eftychi | 1 | 868 | 868 | 0.00 | 0% (0) | 0% (0) | 0% (0) |
+| **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| PA | 16 | 1237 | 1225 | 9.25 | 48% | 56% (9) | 25% (4) | 6% (1) |
+| Rob | 5 | 1180 | 1063 | 9.20 | 30% | 40% (2) | 20% (1) | 20% (1) |
+| AlexC | 25 | 1180 | 1084 | 7.96 | 12% | 16% (4) | 36% (9) | 32% (8) |
+| AlexP | 7 | 1153 | 981 | 6.71 | 14% | 14% (1) | 14% (1) | 14% (1) |
+| Ronan | 13 | 1114 | 994 | 7.62 | 19% | 23% (3) | 8% (1) | 15% (2) |
+| Scott | 2 | 1095 | 1050 | 9.50 | 0% | 0% (0) | 100% (2) | 0% (0) |
+| Jess | 1 | 1044 | 1044 | 4.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Wendi | 21 | 997 | 1037 | 7.48 | 13% | 19% (4) | 14% (3) | 19% (4) |
+| Jay | 1 | 991 | 991 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Nick | 18 | 924 | 885 | 6.22 | 4% | 6% (1) | 17% (3) | 17% (3) |
+| Andy | 9 | 894 | 1035 | 8.11 | 13% | 11% (1) | 11% (1) | 33% (3) |
+| Rachel | 3 | 886 | 915 | 5.33 | 0% | 0% (0) | 0% (0) | 33% (1) |
+| Eftychi | 1 | 868 | 868 | 0.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+
+Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
 [(Back to Players)](#players)
 
@@ -53,13 +55,15 @@ Last updated 2022-01-09 08:51 UTC.
 
 ![Players Points Plot](players/points.png)
 
-Victory points are adjusted relative to a 10-point game.
+Average victory points per game are adjusted relative to 10-point games.
 
 [(Back to Players)](#players)
 
 ## Players: Win Rates
 
 ![Players Win Rates Plot](players/winrates.png)
+
+Effective win rates are calculated relative to 6-player games.
 
 [(Back to Players)](#players)
 
@@ -74,32 +78,34 @@ Victory points are adjusted relative to a 10-point game.
 
 ## Factions: Summary
 
-| **Faction** | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Clan of Saar | 6 | 1213 | 1174 | 9.17 | 50% (3) | 17% (1) | 33% (2) |
-| Universities of Jol-Nar | 7 | 1162 | 1027 | 7.14 | 14% (1) | 29% (2) | 14% (1) |
-| Naalu Collective | 3 | 1140 | 1108 | 9.00 | 67% (2) | 0% (0) | 0% (0) |
-| Vuil'raith Cabal | 11 | 1125 | 922 | 7.64 | 9% (1) | 27% (3) | 9% (1) |
-| Argent Flight | 10 | 1122 | 1109 | 8.30 | 40% (4) | 20% (2) | 10% (1) |
-| Titans of Ul | 5 | 1121 | 1075 | 9.20 | 40% (2) | 20% (1) | 20% (1) |
-| Winnu | 4 | 1103 | 1085 | 7.25 | 50% (2) | 0% (0) | 50% (2) |
-| Mentak Coalition | 2 | 1092 | 1033 | 8.00 | 0% (0) | 50% (1) | 50% (1) |
-| Sardakk N'orr | 3 | 1081 | 1082 | 6.00 | 33% (1) | 0% (0) | 33% (1) |
-| Ghosts of Creuss | 1 | 1071 | 1071 | 9.00 | 0% (0) | 100% (1) | 0% (0) |
-| Arborec | 3 | 1062 | 1009 | 7.67 | 0% (0) | 67% (2) | 0% (0) |
-| L1z1x Mindnet | 5 | 1043 | 1064 | 7.80 | 20% (1) | 40% (2) | 20% (1) |
-| Federation of Sol | 7 | 1035 | 1028 | 8.14 | 14% (1) | 0% (0) | 86% (6) |
-| Yssaril Tribes | 2 | 1029 | 1009 | 7.50 | 0% (0) | 50% (1) | 0% (0) |
-| Xxcha Kingdom | 3 | 1005 | 991 | 7.67 | 0% (0) | 67% (2) | 0% (0) |
-| Barony of Letnev | 5 | 953 | 967 | 7.60 | 20% (1) | 0% (0) | 20% (1) |
-| Embers of Muaat | 2 | 945 | 899 | 7.50 | 0% (0) | 0% (0) | 50% (1) |
-| Mahact Gene-Sorcerers | 5 | 933 | 958 | 6.20 | 0% (0) | 40% (2) | 20% (1) |
-| Naaz-Rokha Alliance | 8 | 932 | 1050 | 7.50 | 25% (2) | 12% (1) | 25% (2) |
-| Emirates of Hacan | 3 | 930 | 1051 | 7.33 | 33% (1) | 33% (1) | 0% (0) |
-| Yin Brotherhood | 2 | 923 | 916 | 6.00 | 0% (0) | 0% (0) | 0% (0) |
-| Empyrean | 5 | 889 | 1019 | 7.20 | 20% (1) | 0% (0) | 0% (0) |
-| Nomad | 3 | 867 | 937 | 5.67 | 0% (0) | 0% (0) | 33% (1) |
-| Nekro Virus | 4 | 796 | 846 | 6.75 | 0% (0) | 25% (1) | 0% (0) |
+| **Faction** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Clan of Saar | 6 | 1213 | 1174 | 9.17 | 33% | 50% (3) | 17% (1) | 33% (2) |
+| Universities of Jol-Nar | 7 | 1162 | 1027 | 7.14 | 17% | 14% (1) | 29% (2) | 14% (1) |
+| Naalu Collective | 3 | 1140 | 1108 | 9.00 | 56% | 67% (2) | 0% (0) | 0% (0) |
+| Vuil'raith Cabal | 11 | 1125 | 922 | 7.64 | 9% | 9% (1) | 27% (3) | 9% (1) |
+| Argent Flight | 10 | 1122 | 1109 | 8.30 | 28% | 40% (4) | 20% (2) | 10% (1) |
+| Titans of Ul | 5 | 1121 | 1075 | 9.20 | 30% | 40% (2) | 20% (1) | 20% (1) |
+| Winnu | 4 | 1103 | 1085 | 7.25 | 33% | 50% (2) | 0% (0) | 50% (2) |
+| Mentak Coalition | 2 | 1092 | 1033 | 8.00 | 0% | 0% (0) | 50% (1) | 50% (1) |
+| Sardakk N'orr | 3 | 1081 | 1082 | 6.00 | 33% | 33% (1) | 0% (0) | 33% (1) |
+| Ghosts of Creuss | 1 | 1071 | 1071 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
+| Arborec | 3 | 1062 | 1009 | 7.67 | 0% | 0% (0) | 67% (2) | 0% (0) |
+| L1z1x Mindnet | 5 | 1043 | 1064 | 7.80 | 20% | 20% (1) | 40% (2) | 20% (1) |
+| Federation of Sol | 7 | 1035 | 1028 | 8.14 | 7% | 14% (1) | 0% (0) | 86% (6) |
+| Yssaril Tribes | 2 | 1029 | 1009 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Xxcha Kingdom | 3 | 1005 | 991 | 7.67 | 0% | 0% (0) | 67% (2) | 0% (0) |
+| Barony of Letnev | 5 | 953 | 967 | 7.60 | 13% | 20% (1) | 0% (0) | 20% (1) |
+| Embers of Muaat | 2 | 945 | 899 | 7.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
+| Mahact Gene-Sorcerers | 5 | 933 | 958 | 6.20 | 0% | 0% (0) | 40% (2) | 20% (1) |
+| Naaz-Rokha Alliance | 8 | 932 | 1050 | 7.50 | 19% | 25% (2) | 12% (1) | 25% (2) |
+| Emirates of Hacan | 3 | 930 | 1051 | 7.33 | 33% | 33% (1) | 33% (1) | 0% (0) |
+| Yin Brotherhood | 2 | 923 | 916 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Empyrean | 5 | 889 | 1019 | 7.20 | 20% | 20% (1) | 0% (0) | 0% (0) |
+| Nomad | 3 | 867 | 937 | 5.67 | 0% | 0% (0) | 0% (0) | 33% (1) |
+| Nekro Virus | 4 | 796 | 846 | 6.75 | 0% | 0% (0) | 25% (1) | 0% (0) |
+
+Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
 [(Back to Factions)](#factions)
 
@@ -117,7 +123,7 @@ Victory points are adjusted relative to a 10-point game.
 
 ![Factions Points Plot](factions/points2.png)
 
-Victory points are adjusted relative to a 10-point game.
+Average victory points per game are adjusted relative to 10-point games.
 
 [(Back to Factions)](#factions)
 
@@ -126,6 +132,8 @@ Victory points are adjusted relative to a 10-point game.
 ![Factions Win Rates Plot](factions/winrates1.png)
 
 ![Factions Win Rates Plot](factions/winrates2.png)
+
+Effective win rates are calculated relative to 6-player games.
 
 [(Back to Factions)](#factions)
 
@@ -169,7 +177,7 @@ Victory points are adjusted relative to a 10-point game.
 
 # License
 
-This leaderboard was generated by https://github.com/acodcha/ti4-echelon, which is maintained by Alexandre Coderre-Chabot (https://github.com/acodcha) and licensed under the MIT License. For more details, see the `LICENSE` file or https://mit-license.org/. This work is based on the Twilight Imperium 4th Edition board game by Fantasy Flight Games. The contents, copyrights, and trademarks of everything involving Twilight Imperium 4th Edition are exclusively held by Fantasy Flight Games; I make no claim to any of these in any way.
+This leaderboard was generated by [https://github.com/acodcha/ti4-echelon](https://github.com/acodcha/ti4-echelon), which is maintained by Alexandre Coderre-Chabot [(https://github.com/acodcha)](https://github.com/acodcha) and licensed under the MIT License. For more details, see the `LICENSE` file or [https://mit-license.org](https://mit-license.org). This work is based on the Twilight Imperium 4th Edition board game by Fantasy Flight Games. The contents, copyrights, and trademarks of everything involving Twilight Imperium 4th Edition are exclusively held by Fantasy Flight Games; I make no claim to any of these in any way.
 
 [(Back to Top)](#)
 
