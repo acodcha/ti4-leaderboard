@@ -1,25 +1,17 @@
-- [Players](#players)
-    - [Players: Summary](#players-summary)
-    - [Players: Ratings](#players-ratings)
-    - [Players: Average Victory Points per Game](#players-average-victory-points-per-game)
-    - [Players: Win Rates](#players-win-rates)
-- [Factions](#factions)
-    - [Factions: Summary](#factions-summary)
-    - [Factions: Ratings](#factions-ratings)
-    - [Factions: Average Victory Points per Game](#factions-average-victory-points-per-game)
-    - [Factions: Win Rates](#factions-win-rates)
-- [Time Duration](#time-duration)
+- [Players](#players): [Summary](#players-summary), [Ratings](#players-ratings), [Points](#players-points), [Win Rates](#players-win-rates)
+- [Factions](#factions): [Summary](#factions-summary), [Ratings](#factions-ratings), [Points](#factions-points), [Win Rates](#factions-win-rates)
+- [Duration](#duration)
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-01-18 03:37 UTC.
+Last updated 2022-01-18 04:58 UTC.
 
 # Players
 
-- [Players: Summary](#players-summary)
-- [Players: Ratings](#players-ratings)
-- [Players: Average Victory Points per Game](#players-average-victory-points-per-game)
-- [Players: Win Rates](#players-win-rates)
+- [Summary](#players-summary)
+- [Ratings](#players-ratings)
+- [Points](#players-points)
+- [Win Rates](#players-win-rates)
 
 [(Back to Top)](#)
 
@@ -51,7 +43,7 @@ Average victory points per game are adjusted relative to 10-point games, and eff
 
 [(Back to Players)](#players)
 
-## Players: Average Victory Points per Game
+## Players: Points
 
 ![Players Points Plot](players/points.png)
 
@@ -69,10 +61,10 @@ Effective win rates are calculated relative to 6-player games.
 
 # Factions
 
-- [Factions: Summary](#factions-summary)
-- [Factions: Ratings](#factions-ratings)
-- [Factions: Average Victory Points per Game](#factions-average-victory-points-per-game)
-- [Factions: Win Rates](#factions-win-rates)
+- [Summary](#factions-summary)
+- [Ratings](#factions-ratings)
+- [Points](#factions-points)
+- [Win Rates](#factions-win-rates)
 
 [(Back to Top)](#)
 
@@ -117,7 +109,7 @@ Average victory points per game are adjusted relative to 10-point games, and eff
 
 [(Back to Factions)](#factions)
 
-## Factions: Average Victory Points per Game
+## Factions: Points
 
 ![Factions Points Plot](factions/points1.png)
 
@@ -137,7 +129,7 @@ Effective win rates are calculated relative to 6-player games.
 
 [(Back to Factions)](#factions)
 
-# Time Duration
+# Duration
 
 ![Duration Plot](duration.png)
 
