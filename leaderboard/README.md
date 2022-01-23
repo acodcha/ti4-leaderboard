@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-01-18 04:58 UTC.
+Last updated 2022-01-23 05:55 UTC.
 
 # Players
 
@@ -20,15 +20,15 @@ Last updated 2022-01-18 04:58 UTC.
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | PA | 16 | 1237 | 1225 | 9.25 | 48% | 56% (9) | 25% (4) | 6% (1) |
-| Rob | 5 | 1180 | 1063 | 9.20 | 30% | 40% (2) | 20% (1) | 20% (1) |
-| AlexC | 25 | 1180 | 1084 | 7.96 | 12% | 16% (4) | 36% (9) | 32% (8) |
 | AlexP | 7 | 1153 | 981 | 6.71 | 14% | 14% (1) | 14% (1) | 14% (1) |
-| Ronan | 13 | 1114 | 994 | 7.62 | 19% | 23% (3) | 8% (1) | 15% (2) |
+| Ronan | 14 | 1147 | 1005 | 7.71 | 18% | 21% (3) | 14% (2) | 14% (2) |
+| AlexC | 26 | 1134 | 1086 | 8.00 | 12% | 15% (4) | 35% (9) | 35% (9) |
 | Scott | 2 | 1095 | 1050 | 9.50 | 0% | 0% (0) | 100% (2) | 0% (0) |
+| Rob | 6 | 1071 | 1064 | 8.50 | 25% | 33% (2) | 17% (1) | 17% (1) |
+| Nick | 19 | 1067 | 894 | 6.42 | 7% | 11% (2) | 16% (3) | 16% (3) |
 | Jess | 1 | 1044 | 1044 | 4.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
 | Wendi | 21 | 997 | 1037 | 7.48 | 13% | 19% (4) | 14% (3) | 19% (4) |
 | Jay | 1 | 991 | 991 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Nick | 18 | 924 | 885 | 6.22 | 4% | 6% (1) | 17% (3) | 17% (3) |
 | Andy | 9 | 894 | 1035 | 8.11 | 13% | 11% (1) | 11% (1) | 33% (3) |
 | Rachel | 3 | 886 | 915 | 5.33 | 0% | 0% (0) | 0% (0) | 33% (1) |
 | Eftychi | 1 | 868 | 868 | 0.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
@@ -74,18 +74,18 @@ Effective win rates are calculated relative to 6-player games.
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Clan of Saar | 6 | 1213 | 1174 | 9.17 | 33% | 50% (3) | 17% (1) | 33% (2) |
 | Universities of Jol-Nar | 7 | 1162 | 1027 | 7.14 | 17% | 14% (1) | 29% (2) | 14% (1) |
+| Arborec | 4 | 1154 | 1045 | 8.25 | 17% | 25% (1) | 50% (2) | 0% (0) |
 | Naalu Collective | 3 | 1140 | 1108 | 9.00 | 56% | 67% (2) | 0% (0) | 0% (0) |
-| Vuil'raith Cabal | 11 | 1125 | 922 | 7.64 | 9% | 9% (1) | 27% (3) | 9% (1) |
 | Argent Flight | 10 | 1122 | 1109 | 8.30 | 28% | 40% (4) | 20% (2) | 10% (1) |
 | Titans of Ul | 5 | 1121 | 1075 | 9.20 | 30% | 40% (2) | 20% (1) | 20% (1) |
+| Sardakk N'orr | 4 | 1114 | 1090 | 6.75 | 25% | 25% (1) | 25% (1) | 25% (1) |
 | Winnu | 4 | 1103 | 1085 | 7.25 | 33% | 50% (2) | 0% (0) | 50% (2) |
 | Mentak Coalition | 2 | 1092 | 1033 | 8.00 | 0% | 0% (0) | 50% (1) | 50% (1) |
-| Sardakk N'orr | 3 | 1081 | 1082 | 6.00 | 33% | 33% (1) | 0% (0) | 33% (1) |
 | Ghosts of Creuss | 1 | 1071 | 1071 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
-| Arborec | 3 | 1062 | 1009 | 7.67 | 0% | 0% (0) | 67% (2) | 0% (0) |
 | L1z1x Mindnet | 5 | 1043 | 1064 | 7.80 | 20% | 20% (1) | 40% (2) | 20% (1) |
 | Federation of Sol | 7 | 1035 | 1028 | 8.14 | 7% | 14% (1) | 0% (0) | 86% (6) |
-| Yssaril Tribes | 2 | 1029 | 1009 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Yssaril Tribes | 3 | 1021 | 1013 | 8.00 | 0% | 0% (0) | 33% (1) | 33% (1) |
+| Vuil'raith Cabal | 12 | 1021 | 930 | 7.42 | 8% | 8% (1) | 25% (3) | 8% (1) |
 | Xxcha Kingdom | 3 | 1005 | 991 | 7.67 | 0% | 0% (0) | 67% (2) | 0% (0) |
 | Barony of Letnev | 5 | 953 | 967 | 7.60 | 13% | 20% (1) | 0% (0) | 20% (1) |
 | Embers of Muaat | 2 | 945 | 899 | 7.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
@@ -139,6 +139,7 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
+| 26 | 2022-01-22 | Free-for-All | 10 | 4 | 11h15m, 1st Nick 10 Arborec, 2nd Ronan 9 Sardakk N'orr, 3rd AlexC 9 Yssaril Tribes, 4th Rob 5 Vuil'raith Cabal |
 | 25 | 2021-12-27 | Free-for-All | 10 | 5 | 8h30m, 1st Rob 10 Argent Flight, 2nd PA 9 Ghosts of Creuss, 3rd AlexC 9 Winnu, 4th Wendi 8 Barony of Letnev, 5th Andy 7 Empyrean |
 | 24 | 2021-12-18 | Free-for-All | 10 | 4 | 8h45m, 1st Ronan 10 Naalu Collective, 2nd AlexC 10 L1z1x Mindnet, 3rd Rob 9 Mahact Gene-Sorcerers, 4th Andy 9 Argent Flight |
 | 23 | 2021-12-05 | Free-for-All | 5 | 6 | 8h45m, 1st AlexC 5 Vuil'raith Cabal, 2nd Scott 5 Mentak Coalition, 3rd Jess 2 Sardakk N'orr, 4th Jay 2 Argent Flight, 5th Rachel 1 Naaz-Rokha Alliance, 6th Eftychi 0 Mahact Gene-Sorcerers |
