@@ -24,10 +24,12 @@ jobs:
       run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard leaderboard
     - name: cleanup generator
       run: rm -rf generator
-    - name: commit leaderboard files
-      uses: EndBug/add-and-commit@main
-      with:
-        add: "--all"
-        message: "Update leaderboard."
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: setup git config
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+    - name: commit updated leaderboard files
+      run: |
+        git add *
+        git commit -m "Update leaderboard."
+        git push
