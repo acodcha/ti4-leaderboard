@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-05-09 03:53 UTC.
+Last updated 2022-05-13 02:24 UTC.
 
 # Players
 
@@ -96,7 +96,6 @@ Effective win rates are calculated relative to 6-player games.
 | Yin Brotherhood | 2 | 923 | 916 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Embers of Muaat | 2 | 945 | 899 | 7.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
 | Nekro Virus | 4 | 796 | 846 | 6.75 | 0% | 0% (0) | 25% (1) | 0% (0) |
-| Custom | 2 | 663 | 735 | 7.20 | 108% | 100% (2) | 100% (2) | 100% (2) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
