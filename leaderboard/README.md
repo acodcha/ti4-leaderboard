@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2022-05-13 02:24 UTC.
+Last updated 2023-07-30 01:35 UTC.
 
 # Players
 
@@ -19,18 +19,19 @@ Last updated 2022-05-13 02:24 UTC.
 
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| PA | 16 | 1237 | 1225 | 9.25 | 48% | 56% (9) | 25% (4) | 6% (1) |
-| AlexC | 27 | 1095 | 1087 | 8.07 | 11% | 15% (4) | 33% (9) | 37% (10) |
+| PA | 17 | 1296 | 1230 | 9.29 | 51% | 59% (10) | 24% (4) | 6% (1) |
+| AlexC | 28 | 1103 | 1087 | 8.07 | 11% | 14% (4) | 32% (9) | 39% (11) |
 | Rob | 7 | 988 | 1053 | 8.29 | 21% | 29% (2) | 14% (1) | 14% (1) |
 | Scott | 2 | 1095 | 1050 | 9.50 | 0% | 0% (0) | 100% (2) | 0% (0) |
 | Jess | 1 | 1044 | 1044 | 4.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Wendi | 22 | 1060 | 1038 | 7.59 | 13% | 18% (4) | 18% (4) | 18% (4) |
-| Andy | 9 | 894 | 1035 | 8.11 | 13% | 11% (1) | 11% (1) | 33% (3) |
+| Wendi | 23 | 1132 | 1042 | 7.61 | 12% | 17% (4) | 22% (5) | 17% (4) |
+| Andy | 10 | 931 | 1025 | 7.90 | 12% | 10% (1) | 10% (1) | 30% (3) |
 | Ronan | 15 | 1216 | 1019 | 7.87 | 21% | 27% (4) | 13% (2) | 13% (2) |
 | Jay | 1 | 991 | 991 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | AlexP | 7 | 1153 | 981 | 6.71 | 14% | 14% (1) | 14% (1) | 14% (1) |
-| Rachel | 3 | 886 | 915 | 5.33 | 0% | 0% (0) | 0% (0) | 33% (1) |
+| Joseph | 1 | 935 | 935 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Nick | 19 | 1067 | 894 | 6.42 | 7% | 11% (2) | 16% (3) | 16% (3) |
+| Rachel | 4 | 804 | 887 | 4.75 | 0% | 0% (0) | 0% (0) | 25% (1) |
 | Eftychi | 1 | 868 | 868 | 0.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
@@ -73,21 +74,21 @@ Effective win rates are calculated relative to 6-player games.
 | **Faction** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Clan of Saar | 7 | 1073 | 1160 | 8.86 | 29% | 43% (3) | 14% (1) | 29% (2) |
+| Naalu Collective | 4 | 1202 | 1131 | 8.75 | 42% | 50% (2) | 25% (1) | 0% (0) |
 | Argent Flight | 10 | 1122 | 1109 | 8.30 | 28% | 40% (4) | 20% (2) | 10% (1) |
-| Naalu Collective | 3 | 1140 | 1108 | 9.00 | 56% | 67% (2) | 0% (0) | 0% (0) |
+| Winnu | 5 | 1131 | 1094 | 7.40 | 27% | 40% (2) | 0% (0) | 60% (3) |
 | Sardakk N'orr | 4 | 1114 | 1090 | 6.75 | 25% | 25% (1) | 25% (1) | 25% (1) |
-| Winnu | 4 | 1103 | 1085 | 7.25 | 33% | 50% (2) | 0% (0) | 50% (2) |
 | Titans of Ul | 5 | 1121 | 1075 | 9.20 | 30% | 40% (2) | 20% (1) | 20% (1) |
 | L1z1x Mindnet | 6 | 1132 | 1075 | 8.17 | 28% | 33% (2) | 33% (2) | 17% (1) |
 | Ghosts of Creuss | 1 | 1071 | 1071 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
+| Yssaril Tribes | 4 | 1178 | 1054 | 8.50 | 25% | 25% (1) | 25% (1) | 25% (1) |
 | Emirates of Hacan | 3 | 930 | 1051 | 7.33 | 33% | 33% (1) | 33% (1) | 0% (0) |
-| Naaz-Rokha Alliance | 8 | 932 | 1050 | 7.50 | 19% | 25% (2) | 12% (1) | 25% (2) |
 | Arborec | 4 | 1154 | 1045 | 8.25 | 17% | 25% (1) | 50% (2) | 0% (0) |
-| Mentak Coalition | 2 | 1092 | 1033 | 8.00 | 0% | 0% (0) | 50% (1) | 50% (1) |
-| Universities of Jol-Nar | 7 | 1162 | 1027 | 7.14 | 17% | 14% (1) | 29% (2) | 14% (1) |
+| Universities of Jol-Nar | 8 | 1110 | 1038 | 7.00 | 15% | 12% (1) | 25% (2) | 12% (1) |
+| Naaz-Rokha Alliance | 9 | 855 | 1029 | 7.00 | 17% | 22% (2) | 11% (1) | 22% (2) |
+| Mentak Coalition | 3 | 1013 | 1026 | 6.67 | 0% | 0% (0) | 33% (1) | 33% (1) |
 | Federation of Sol | 8 | 1012 | 1026 | 8.38 | 6% | 12% (1) | 0% (0) | 88% (7) |
 | Empyrean | 5 | 889 | 1019 | 7.20 | 20% | 20% (1) | 0% (0) | 0% (0) |
-| Yssaril Tribes | 3 | 1021 | 1013 | 8.00 | 0% | 0% (0) | 33% (1) | 33% (1) |
 | Xxcha Kingdom | 3 | 1005 | 991 | 7.67 | 0% | 0% (0) | 67% (2) | 0% (0) |
 | Barony of Letnev | 5 | 953 | 967 | 7.60 | 13% | 20% (1) | 0% (0) | 20% (1) |
 | Mahact Gene-Sorcerers | 5 | 933 | 958 | 6.20 | 0% | 0% (0) | 40% (2) | 20% (1) |
@@ -139,6 +140,7 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
+| 28 | 2023-07-29 | Free-for-All | 10 | 6 | 14h00m, 1st PA 10 Yssaril Tribes, 2nd Wendi 8 Naalu Collective, 3rd AlexC 8 Winnu, 4th Andy 6 Universities of Jol-Nar, 5th Joseph 4 Mentak Coalition, 6th Rachel 3 Naaz-Rokha Alliance |
 | 27 | 2022-02-12 | Free-for-All | 10 | 4 | 10h45m, 1st Ronan 10 L1z1x Mindnet, 2nd Wendi 10 Nomad, 3rd AlexC 10 Federation of Sol, 4th Rob 7 Clan of Saar |
 | 26 | 2022-01-22 | Free-for-All | 10 | 4 | 11h15m, 1st Nick 10 Arborec, 2nd Ronan 9 Sardakk N'orr, 3rd AlexC 9 Yssaril Tribes, 4th Rob 5 Vuil'raith Cabal |
 | 25 | 2021-12-27 | Free-for-All | 10 | 5 | 8h30m, 1st Rob 10 Argent Flight, 2nd PA 9 Ghosts of Creuss, 3rd AlexC 9 Winnu, 4th Wendi 8 Barony of Letnev, 5th Andy 7 Empyrean |
