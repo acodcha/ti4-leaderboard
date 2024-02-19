@@ -18,6 +18,8 @@ jobs:
       run: cd generator && mkdir -p build && cd build && cmake ..
     - name: build generator
       run: cd generator && cd build && make
+    - name: delete previous leaderboard
+      run: rm -rf leaderboard/*
     - name: generate test leaderboard
       run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard test
     - name: cleanup generator
