@@ -1,6 +1,6 @@
 [![test](https://github.com/acodcha/ti4-leaderboard/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/acodcha/ti4-leaderboard/actions/workflows/test.yml)
 
-[Click here to view the leaderboard.](https://acodcha.github.io/ti4-leaderboard/leaderboard)
+[Click here to view the leaderboard.](https://benhookgenomics.github.io/ti4-leaderboard/leaderboard/)
 
 If you wish to participate in updating the leaderboard, contact me and I will add you as a collaborator to this project. As a collaborator, to update the leaderboard with new games, simply edit the `games.txt` file and make a pull request. The build system will automatically generate an updated leaderboard. Once I accept and merge the pull request, the leaderboard will be updated with your changes. See https://github.com/acodcha/ti4-echelon for more information about the leaderboard generator or the `games.txt` file.
 
